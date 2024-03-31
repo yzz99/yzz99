@@ -18,13 +18,23 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/jQuery-005571?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>&nbsp 
 </p>
+
+
+
+💬 Tool
+=============
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>&nbsp 
+</p>
+
+
 
 <!--
 **yzz99/yzz99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
