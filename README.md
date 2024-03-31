@@ -4,7 +4,7 @@
 
 📫 포트폴리오 
 =============
-<a href="https://yzz99.cafe24.com/index.html" target="_blank">보러가기(클릭시 포트폴리오 확인 가능)</a>
+<a href="https://yzz99.cafe24.com/index.html" target="_blank">보러가기 (클릭시 포트폴리오 확인 가능)</a>
 <br/>
 <br/>
 
@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>&nbsp 
 </p>
-<br/>
 
 🌱 Tool
 =============
