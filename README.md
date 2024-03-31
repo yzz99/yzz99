@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp 
 </p>
 
 <!--
