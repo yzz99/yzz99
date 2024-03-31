@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JeongChangHo&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Yeonju Cha&fontSize=70&animation=twinkling)
 
 💬 Tech Stack
 =============
