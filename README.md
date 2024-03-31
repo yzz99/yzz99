@@ -7,11 +7,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Vue.js-DB3552?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/jQuery-005571?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp &nbsp 
   <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white"/></a>&nbsp &nbsp 
+  <img src="https://img.shields.io/badge/Vue.js-DB3552?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/jQuery-005571?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp &nbsp 
 </p>
 
 
