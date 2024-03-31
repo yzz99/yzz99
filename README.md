@@ -2,11 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YeonjuCha&fontSize=70&animation=twinkling)
 
-📫 포트폴리오
+<a href="https://yzz99.cafe24.com/index.html" target="_blank">📫 포트폴리오 바로가기</a>
 =============
-<p align="center">
-  <a href="https://yzz99.cafe24.com/index.html" target="_blank">바로가기</a>
-</p>
 
 💬 Tech Stack
 =============
